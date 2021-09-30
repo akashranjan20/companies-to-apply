@@ -208,6 +208,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
 
 ## Q  
 1.   [Qualcomm](https://www.qualcomm.com/company/careers)   
+2.   [Quadeye](https://www.quadeye.com/careers/)
 
 
 ## R  
