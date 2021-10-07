@@ -19,7 +19,7 @@ This Repository contains contains the list of companies(more than FAANG) which y
  
  |Total companies added|
  |:-------------------:|
- |      162            |
+ |      164            |
  
  
  
@@ -227,11 +227,12 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [Shaadi.com](https://www.naukri.com/)  
 1.   [ShareChat](https://we.sharechat.com/careers)
 1.   [shell](https://www.shell.com/careers.html)  
-1.   [Skyroot Aerospace](https://skyroot.in/join/) 
+1.   [Skyroot Aerospace](https://skyroot.in/join/)
+2.   [Slack](https://slack.com/intl/en-in/careers) 
 3.   [Spinny](https://spinny.freshteam.com/jobs)  
-3.   [sprinklr](https://www.sprinklr.com/careers/)  
-4.   [Swiggy](https://careers.swiggy.com/)  
-5.   [synopsys](https://www.synopsys.com/careers.html)  
+4.   [sprinklr](https://www.sprinklr.com/careers/)  
+5.   [Swiggy](https://careers.swiggy.com/)  
+6.   [synopsys](https://www.synopsys.com/careers.html)  
 
 
 
@@ -244,7 +245,8 @@ This Repository contains contains the list of companies(more than FAANG) which y
 1.   [thoughtWorks](https://www.thoughtworks.com/careers/jobs)  
 1.   [tower research capital](https://www.tower-research.com/positions)  
 1.   [turvo](https://turvo.com/careers/)  
-1.   [Twitter](https://careers.twitter.com/)   
+1.   [Twitter](https://careers.twitter.com/)  
+2.   [Twilio](https://www.twilio.com/company/jobs) 
 
 
 ## U  
